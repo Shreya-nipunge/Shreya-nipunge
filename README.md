@@ -6,78 +6,124 @@
 
 ---
 
-## 🧠 About Me
-
-I enjoy building **real-world applications powered by AI** — focusing on systems that go beyond theory and deliver practical value.
-
-- ⚙️ Developing full-stack applications using Python, FastAPI, and React  
-- 🤖 Working with LLM APIs and AI-powered workflows  
-- 🧩 Interested in intelligent systems, automation, and data-driven solutions  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreya-nipunge&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-nipunge&layout=compact&theme=default" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-nipunge&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🧠 About Me
 
-### 🔷 CrimeMap — Crime Intelligence Platform  
+- 🧩 AI for accessibility & real-world problem solving  
+- 🤖 LLM apps, multi-agent systems, automation  
+- 🌐 Full-stack apps with scalable backend systems  
+- 🔍 OSINT + data-driven intelligence systems  
+
+---
+
+## 🚀 Featured Projects
+
+### ♿ Inflexa — AI Accessibility Platform
+🔗 https://github.com/Shreya-nipunge/Inflexa  
+
+AI system that transforms content into inclusive learning formats  
+- Multi-agent AI pipeline (Gemini + Groq + Whisper)  
+- ADHD-friendly + multilingual + audio generation  
+- Built for accessibility-first learning systems  
+
+---
+
+### 🧠 CrimeMap — Crime Intelligence Platform
 🔗 https://github.com/Shreya-nipunge/CrimeMap  
 
-- Full-stack crime analytics platform built using React and FastAPI  
-- Implemented geospatial heatmaps and hotspot detection  
-- Designed APIs for filtering and analyzing large crime datasets  
-- Focused on transforming public data into actionable insights  
+Full-stack OSINT + crime analytics platform  
+- Geospatial heatmaps & hotspot detection  
+- FastAPI backend + React frontend  
+- Data-driven safety insights  
 
 ---
 
-### 🔷 Voice-Activated Virtual Assistant  
-🔗 https://github.com/Shreya-nipunge/Voice-Activated-Virtual-Assistant  
-
-- AI-powered assistant with speech recognition  
-- Integrated LLM APIs for conversational responses and task execution  
-
----
-
-### 🔷 Heart Disease Prediction Dashboard  
+### ❤️ Heart Disease Prediction Dashboard
 🔗 https://github.com/Shreya-nipunge/Heart-Disease-Prediction-Dashboard  
 
-- Built a machine learning-based prediction system  
-- Created interactive visual dashboards for better interpretability  
+ML-powered medical prediction system  
+- Predictive modeling + visualization dashboard  
+- Focus on interpretability & user insights  
 
 ---
 
-## 🛠 Technical Skills
+### 🗣️ Voice AI Assistant
+🔗 https://github.com/Shreya-nipunge/Voice-Activated-Virtual-Assistant  
 
-**Languages:**  
-Python, Java, JavaScript, SQL, HTML, CSS  
+Voice-controlled AI assistant  
+- Speech recognition + LLM integration  
+- Task automation via natural language  
 
-**Frameworks & Tools:**  
-FastAPI, Flask, React, Git  
+---
 
-**AI / ML:**  
-scikit-learn, OpenCV, Faster-Whisper  
+## ⚙️ Tech Stack
 
-**Generative AI:**  
-LLM APIs (Gemini, Groq), GitHub Copilot  
+### 👩‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Cloud / Deployment:**  
-Google Cloud, Vercel, Render, Streamlit  
+---
+
+### ⚙️ Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+![Whisper](https://img.shields.io/badge/Whisper-AI-black?style=for-the-badge)
+
+---
+
+### 🧠 Generative AI
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge)
+![Groq API](https://img.shields.io/badge/Groq_API-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
+![LLM Systems](https://img.shields.io/badge/LLM_Systems-4B8BBE?style=for-the-badge)
+
+---
+
+### 📊 Data Science
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![seaborn](https://img.shields.io/badge/seaborn-2E4A62?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
+
+---
+
+### ☁️ Cloud / Deployment
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
 ---
 
 ## 🏆 Achievements
 
 - 🥈 2nd Runner-Up — HackStomp Hackathon  
-- 🥈 2nd Runner-Up — TechSprint (GDG VESIT)  
+- 🥈 2nd Runner-Up — GDG VESIT TechSprint Hackathon  
 - 🥈 2nd Runner-Up — GenAI Hackathon  
-- 🏁 Finalist — Nirman 48-Hour National-Level Hackathon  
+- 🏁 Finalist — Nirman 48-Hour National Hackathon  
+- 🏁 Finalist — HYRUP Ideathon 2026  
 
 ---
 
@@ -88,4 +134,4 @@ Google Cloud, Vercel, Render, Streamlit
 
 ---
 
-⭐ I’m open to collaboration on impactful AI and full-stack projects
+⭐ Open to AI, Full-Stack & Open Source collaborations
