@@ -6,10 +6,24 @@
 
 ---
 
-## 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-nipunge&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreya-nipunge&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreya-nipunge&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreya-nipunge&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreya-nipunge&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreya-nipunge&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shreya-nipunge&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 ---
